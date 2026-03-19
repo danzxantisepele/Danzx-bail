@@ -1,5 +1,5 @@
 {
-  "name": "@danzxcode/Danz-bail",
+  "name": "@danzxcode/Danzx-bail",
   "version": "9.0.5",
   "description": "Websocket Whatsapp API for Node.js",
   "keywords": [
@@ -12,13 +12,13 @@
     "proto",
     "whatsapp-websocket"
   ],
-  "homepage": "https://github.com/danzxantisepele/Danz-bail",
+  "homepage": "https://github.com/danzxantisepele/Danzx-bail",
   "bugs": {
-    "url": "https://github.com/danzxantisepele/Danz-bail/issues"
+    "url": "https://github.com/danzxantisepele/Danzx-bail/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/danzxantisepele/Danz-bail.git"
+    "url": "git+ssh://git@github.com/danzxantisepele/Danzx-bail.git"
   },
   "license": "MIT",
   "author": "LyynNotYourGod",
