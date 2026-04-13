@@ -21,7 +21,7 @@
     "url": "git+ssh://git@github.com/danzxantisepele/Danzx-bail.git"
   },
   "license": "MIT",
-  "author": "LyynNotYourGod",
+  "author": "danzxantisepele",
   "type": "module",
   "main": "./lib/index.js",
   "directories": {
@@ -47,7 +47,7 @@
     "@whiskeysockets/eslint-config": "github:whiskeysockets/eslint-config",
     "@cacheable/node-cache": "*",
     "gradient-string": "2.0.2",
-    "@lyyncode/libsignal": "*",
+    "@skycodee/libsignal": "*",
     "moment-timezone": "*",
     "music-metadata": "*",
     "cache-manager": "*",
