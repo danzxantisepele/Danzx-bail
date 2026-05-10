@@ -1,6 +1,6 @@
 {
-  "name": "@danzxcode/Danzx-bail",
-  "version": "9.0.5",
+  "name": "@danzxcode/danzx-bail",
+  "version": "9.0.6",
   "description": "Websocket Whatsapp API for Node.js",
   "keywords": [
     "whatsapp",
@@ -12,21 +12,14 @@
     "proto",
     "whatsapp-websocket"
   ],
-  "homepage": "https://github.com/danzxantisepele/Danzx-bail",
-  "bugs": {
-    "url": "https://github.com/danzxantisepele/Danzx-bail/issues"
-  },
+  "homepage": "https://github.com/danzxantisepele/Danz-bail",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/danzxantisepele/Danzx-bail.git"
+    "url": "git+ssh://git@github.com/danzxantisepele/Danz-bail.git"
   },
   "license": "MIT",
   "author": "danzxantisepele",
-  "type": "module",
   "main": "./lib/index.js",
-  "directories": {
-    "lib": "lib"
-  },
   "files": [
     "lib/*",
     "WAProto/*"
@@ -43,7 +36,6 @@
     "test": "jest"
   },
   "dependencies": {
-    "chalk": "^5.3.0",
     "@whiskeysockets/eslint-config": "github:whiskeysockets/eslint-config",
     "@cacheable/node-cache": "*",
     "gradient-string": "2.0.2",
@@ -90,9 +82,7 @@
     "audio-decode": {
       "optional": true
     },
-    "chalk": {
-      "optional": true
-    },
+    "chalk": { "optional": true }, 
     "jimp": {
       "optional": true
     },
@@ -100,8 +90,14 @@
       "optional": true
     }
   },
+  "packageManager": "yarn@1.22.19",
   "engines": {
     "node": ">=20.0.0"
   },
-  "packageManager": "yarn@1.22.19"
+  "directories": {
+    "lib": "lib"
+  },
+  "bugs": {
+    "url": "https://github.com/danzxantisepele/Danz-bail/issues"
+  }
 }
