@@ -1,6 +1,6 @@
 {
   "name": "@danzxcode/danzx-bail",
-  "version": "9.0.6",
+  "version": "8.0.14",
   "description": "Websocket Whatsapp API for Node.js",
   "keywords": [
     "whatsapp",
@@ -12,13 +12,13 @@
     "proto",
     "whatsapp-websocket"
   ],
-  "homepage": "https://github.com/danzxantisepele/Danz-bail",
+  "homepage": "https://github.com/danzxantisepele/Danz-Bail",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/danzxantisepele/Danz-bail.git"
+    "url": "git+ssh://git@github.com/danzxantisepele/Danz-Bail.git"
   },
   "license": "MIT",
-  "author": "danzxantisepele",
+  "author": "danzxcode",
   "main": "./lib/index.js",
   "files": [
     "lib/*",
@@ -98,6 +98,6 @@
     "lib": "lib"
   },
   "bugs": {
-    "url": "https://github.com/danzxantisepele/Danz-bail/issues"
+    "url": "https://github.com/danzxantisepele/Danz-Bail/issues"
   }
 }
