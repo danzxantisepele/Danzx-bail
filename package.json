@@ -12,10 +12,10 @@
     "proto",
     "whatsapp-websocket"
   ],
-  "homepage": "https://github.com/danzxantisepele/Danz-Bail",
+  "homepage": "https://github.com/danzxantisepele/Danzx-Bail",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/danzxantisepele/Danz-Bail.git"
+    "url": "git+ssh://git@github.com/danzxantisepele/Danzx-Bail.git"
   },
   "license": "MIT",
   "author": "danzxcode",
@@ -82,7 +82,9 @@
     "audio-decode": {
       "optional": true
     },
-    "chalk": { "optional": true }, 
+    "chalk": {
+      "optional": true
+    },
     "jimp": {
       "optional": true
     },
@@ -98,6 +100,7 @@
     "lib": "lib"
   },
   "bugs": {
-    "url": "https://github.com/danzxantisepele/Danz-Bail/issues"
-  }
+    "url": "https://github.com/danzxantisepele/Danzx-Bail/issues"
+  },
+  "type": "commonjs"
 }
